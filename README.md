@@ -6,7 +6,11 @@ virus spreads through direct contact with body fluids, such as blood from infect
 animals. Spread may also occur from contact with items recently contaminated with bodily fluids.
 Semen or breast milk of a person after recovery from EVD may carry the virus for several weeks to
 months. Fruit bats are believed to be the normal carrier in nature, able to spread the virus without
-being affected by it
+being affected by it. <br><br>
+EVD, formerly known as Ebola haemorrhagic fever, is a severe, often fatal illness affecting humans and other
+primates. It is one of the most deadliest disease in the world. Its almost 40 years of Ebola disease around
+the world and new cases are still being reported in some countries of Africa. So as an initiative to eradicate
+it, a model with vaccination is introduced in this project.
 <br>
 <br>
 A stochastic process is defined by the probabilities with which different events happen in a small time
